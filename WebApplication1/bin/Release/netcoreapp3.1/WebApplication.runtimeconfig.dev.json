@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\obril\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\obril\\.nuget\\packages"
+    ]
+  }
+}

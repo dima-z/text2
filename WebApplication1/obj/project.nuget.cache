@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cKSVRkfDXLLt05C3HWbSMAKiSRp3gzratE+C7IdBy/22o3TqOzymAq/S9iHSa5kp7Z+hTjt3AmtNQk+XuTCUFQ==",
+  "success": true,
+  "projectFilePath": "D:\\Test1\\WebApplication1\\WebApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\obril\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
